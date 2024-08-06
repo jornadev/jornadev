@@ -1,4 +1,4 @@
-## Statics
+## GitHub Stats
 
 <div>
   <img height="200em" width="438px" src="https://github-readme-stats.vercel.app/api?username=jornadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
