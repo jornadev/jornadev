@@ -1,20 +1,21 @@
 ## Statics
 
 <div>
-  <img height="200em" width="441px" src="https://github-readme-stats.vercel.app/api?username=jornadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jornadev&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="200em" width="467px" src="https://github-readme-stats.vercel.app/api?username=jornadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="right" height="200em" width="381px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jornadev&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 <div align="center">
   <div style="display: inline_block">
     <img align="left" height="250" alt="coding-time" src="star.gif">
     <h2>Tecnologias</h2>
+    <img align="center" height="30" width="40" alt="java-icon" src="java.png">
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="mysql-icon" src="">
+    <img align="center" height="30" width="40" alt="mysql-icon" src="mysql.png">
    
    
   </div>
