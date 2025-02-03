@@ -17,9 +17,7 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="mysql.png">
    
-   
   </div>
-  
   <h2>Redes Sociais</h2>
   <a href="mailto:jornadahenrique12@gmail.com">
     <img width="30" src="gmail.svg" alt="Gmail">
