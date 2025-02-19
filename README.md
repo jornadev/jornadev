@@ -8,7 +8,7 @@
 <div align="center">
   <div style="display: inline_block">
     <img align="left" height="250" alt="coding-time" src="star.gif">
-    <h2>Tecnologias</h2>
+    <h3>Tecnologias</h3>
     <img align="center" height="30" width="40" alt="java-icon" src="java.png">
     <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -17,7 +17,7 @@
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
-  <h2>Redes Sociais</h2>
+  <h3>Redes Sociais</h3>
   <a href="mailto:jornadahenrique12@gmail.com">
     <img width="30" src="gmail.svg" alt="Gmail">
   </a>
