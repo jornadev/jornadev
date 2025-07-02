@@ -22,7 +22,6 @@
   <a href="mailto:jornadahenrique12@gmail.com">
     <img width="30" src="gmail.svg" alt="Gmail">
   </a>
-  
   <a href="https://www.linkedin.com/in/henriquejornada/">
     <img width="25" src="linkedin.svg" alt="LinkedIn">
   </a>
