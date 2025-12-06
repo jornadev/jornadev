@@ -1,11 +1,3 @@
-## GitHub Stats
-
-<div>
-  <img height="200em" width="438px" src="https://github-readme-stats.vercel.app/api?username=jornadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" width="387px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jornadev&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
-
-
 <div align="center">
   <div style="display: inline_block">
     <img align="left" height="250" alt="coding-time" src="star.gif">
